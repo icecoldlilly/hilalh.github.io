@@ -4,7 +4,7 @@ bio:                'Do more. Care less. Help and guide others.'
 description:        "Say you make it backflip you lyin'."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://scontent-ord1-1.xx.fbcdn.net/t31.0-8/13575802_10154330284384324_4054414213794345923_o.jpg'
 # background:         'rgb(159,118,227)'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -41,6 +41,7 @@ sass:
 # twitter:            username
 facebook:           hmoneygotit
 github:             hilalh
+gitlab:             hilalh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
