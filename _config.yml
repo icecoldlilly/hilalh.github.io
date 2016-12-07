@@ -9,7 +9,8 @@ logo:               'assets/img/profile.jpeg'
 # background:         'rgb(159,118,227)'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://hilalh.github.io
+# url:                http://hilalh.github.io
+base_url:           '_site'
 
 # Jekyll
 permalink:          /:title/
@@ -63,11 +64,11 @@ instagram:          domorecareless
 #hackernews:        username
 
 # Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+# gems:
+#   - jekyll-mentions
+#   - jekyll-feed
+#   - jekyll-sitemap
+#   - jekyll-gist
 
 jekyll-mentions:
     base_url: https://github.com
