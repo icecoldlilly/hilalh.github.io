@@ -9,8 +9,8 @@ logo:               'assets/img/profile.jpeg'
 # background:         'rgb(159,118,227)'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                '_site'
-base_url:           '_site'
+url:                ''
+base_url:           ''
 
 # Jekyll
 permalink:          /:title/
