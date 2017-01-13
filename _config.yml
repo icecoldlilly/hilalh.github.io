@@ -28,11 +28,10 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-facebook:           hmoneygotit
+facebook:           hhgotit
 github:             hilalh
 gitlab:             hilalh
-instagram:          domorecareless
-#youtube:           username
+instagram:          hhgotit
 soundcloud:        hmoneygotit
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
