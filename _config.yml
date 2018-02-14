@@ -40,7 +40,7 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-# twitter:            username
+#twitter:            username
 facebook:           hmoneygotit
 github:             hilalh
 gitlab:             hilalh
@@ -52,14 +52,14 @@ instagram:          domorecareless
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-# steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 soundcloud:        hilalh
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
+keybase:           hilalh
 #xmpp:              username@server.com
 #hackernews:        username
 
@@ -72,6 +72,8 @@ soundcloud:        hilalh
 
 jekyll-mentions:
     base_url: https://github.com
+
+# Extra Links
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
