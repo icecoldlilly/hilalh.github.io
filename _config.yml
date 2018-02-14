@@ -4,8 +4,7 @@ bio:                'Foodie, self-proclaimed Chef and an avid hip-hop fan. I str
 description:        ''
 reading_time:       true
 words_per_minute:   200
-# logo:             'https://scontent-ord1-1.xx.fbcdn.net/t31.0-8/13575802_10154330284384324_4054414213794345923_o.jpg'
-logo:               'assets/img/profile.jpeg'
+logo:             'https://avatars0.githubusercontent.com/u/3894104?s=450&v=4'
 locale:             en_US
 url:                ''
 base_url:           ''
