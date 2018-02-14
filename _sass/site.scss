@@ -19,6 +19,9 @@ body {
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
+	// Fix scrolling
+	position: fixed; 
+    overflow-y: scroll;
 	@media #{$small} {
 	    background-image: none !important;
 		background: $white;
