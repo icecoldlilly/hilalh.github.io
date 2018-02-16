@@ -7,7 +7,10 @@
         {% if site.posts_link %}<a class="btn zoombtn" href="{{ site.posts_link }}">
         Posts
         </a>{% endif %}
-        {% if site.projects_link %}<a class="btn zoombtn" href="{{ site.projects_link }}">
+        {% if site.projects_link %}
+                {% include projects.html %}
+        <!-- <a class="btn zoombtn" href="{{ site.projects_link }}">
         Projects
-        </a>{% endif %}
+        </a> -->
+        {% endif %}
 </h3>

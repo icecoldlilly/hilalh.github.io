@@ -1,0 +1,5 @@
+{% for project in site.projects %}
+    <a class="project-btn" href="{{ project.link }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ project.icon }}" alt="{{ project.name }}">
+    </a>
+{% endfor %}

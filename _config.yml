@@ -5,7 +5,7 @@ description:        ''
 footer:             'Made with 💖 by yours truly'
 reading_time:       true
 words_per_minute:   200
-logo:             'https://avatars0.githubusercontent.com/u/3894104?s=450&v=4'
+logo:             https://avatars0.githubusercontent.com/u/3894104?s=450&v=4
 locale:             en_US
 url:                ''
 base_url:           ''
@@ -25,6 +25,13 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+# Projects
+projects:
+  - project:
+      name: Bitcoin Book Notes
+      link: http://github.com/hilalh/bitcoinbook-notes
+      icon: https://www.shareicon.net/download/128x128//2015/10/04/111818_send_512x512.png
 
 
 # Social
@@ -71,6 +78,6 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Extra Links
-
+projects_link: 'projects.html
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
