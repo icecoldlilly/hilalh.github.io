@@ -27,11 +27,11 @@ sass:
   style:            compressed
 
 # Projects
-projects:
-  - project:
-      name: Bitcoin Book Notes
-      link: http://github.com/hilalh/bitcoinbook-notes
-      icon: https://www.shareicon.net/download/128x128//2015/10/04/111818_send_512x512.png
+# projects:
+#   - project:
+#       name: Bitcoin Book Notes
+#       link: http://github.com/hilalh/bitcoinbook-notes
+#       icon: https://www.shareicon.net/download/128x128//2015/10/04/111818_send_512x512.png
 
 
 # Social
@@ -45,7 +45,7 @@ projects:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           hmoneygotit
+facebook:           hhgotit
 github:             hilalh
 gitlab:             hilalh
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -59,7 +59,7 @@ instagram:          hhgotit
 #steam:              username
 #dribbble:          username
 #youtube:           username
-soundcloud:        hilalh
+# soundcloud:        hilalh
 #weibo:             username
 #flickr:            username
 #codepen:           username
@@ -78,6 +78,6 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Extra Links
-projects_link: 'projects.html
+# projects_link: 'projects.html
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
