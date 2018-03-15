@@ -1,4 +1,8 @@
 _site
 .sass-cache
+<<<<<<< HEAD
 .jekyll-metadata
 **/.DS_Store
+=======
+.jekyll-metadata
+>>>>>>> gh-pages
